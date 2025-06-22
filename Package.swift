@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Neumorphic",
+    name: "Neumorphic2",
     platforms: [
         .macOS(.v10_15), .iOS(.v13), .tvOS(.v11),
     ],
